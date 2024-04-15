@@ -1,0 +1,18 @@
+           Hàm tạo sao chép
+- Ý nghĩa: Giả sử có đtg ob1, Để cấp phát bộ nhớ cho ob2 và khởi gán giá trị của ob2 bằng ob1 dùng hàm tạo sao chép
+- Đối với các lớp có thuộc tính là con trỏ or tham chiếu cần xây dựng hàm tạo sao chép cho lớp thay vì sử dụng hàm tạo
+sao chép mặc định
+- Cú pháp:
+   Tên_lớp(const tên lớp&ob1)
+{
+//Lệnh gắn giá trị của ob1 cho 
+// con trỏ this
+}
+
+    vd:       Class A{
+                   int a1; int *a2;
+                   public:  
+                   A(const A&b) {  
+                          a1=b.a1;  a2=new int; *a2=*(b.a2); }}
+          
+    GỌi hàm: A y-x; // Ay(x)

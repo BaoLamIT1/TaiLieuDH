@@ -1,0 +1,11 @@
+Phương thức toán tử gán
+ Ý nghĩa: Giả sử có 2 đt ob1 ob2, để khởi gán giá trị cho các thuộc tính của đối tượng ob1 ob2 ta dùng pthuc toán tử 
+ gán
+ Đối với các lớp có thuộc tính là con trỏ hoặc tham chiếu cần xây dựng phthuc toán tử gán cho lớp thay vì sử dụng phthuc
+ toán tử gán mặc định
+ Cú pháp:
+  - Kiểu hàm operator=(const tên lớp&ob1)
+  {
+   // lệnh gắn giá trị của ob1 cho con trỏ this
+  }
+  Kiểu hàm có thể là void hoặc Tên lớp
