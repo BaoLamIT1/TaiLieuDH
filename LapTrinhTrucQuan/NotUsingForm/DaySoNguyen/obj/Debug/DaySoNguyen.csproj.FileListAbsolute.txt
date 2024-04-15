@@ -1,0 +1,7 @@
+D:\Lập trình trực quan\DaySoNguyen\bin\Debug\DaySoNguyen.exe.config
+D:\Lập trình trực quan\DaySoNguyen\bin\Debug\DaySoNguyen.exe
+D:\Lập trình trực quan\DaySoNguyen\bin\Debug\DaySoNguyen.pdb
+D:\Lập trình trực quan\DaySoNguyen\obj\Debug\DaySoNguyen.csproj.AssemblyReference.cache
+D:\Lập trình trực quan\DaySoNguyen\obj\Debug\DaySoNguyen.csproj.CoreCompileInputs.cache
+D:\Lập trình trực quan\DaySoNguyen\obj\Debug\DaySoNguyen.exe
+D:\Lập trình trực quan\DaySoNguyen\obj\Debug\DaySoNguyen.pdb

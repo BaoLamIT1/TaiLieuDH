@@ -1,0 +1,7 @@
+D:\Lập trình trực quan\SinhVien\bin\Debug\SinhVien.exe.config
+D:\Lập trình trực quan\SinhVien\bin\Debug\SinhVien.exe
+D:\Lập trình trực quan\SinhVien\bin\Debug\SinhVien.pdb
+D:\Lập trình trực quan\SinhVien\obj\Debug\SinhVien.csproj.AssemblyReference.cache
+D:\Lập trình trực quan\SinhVien\obj\Debug\SinhVien.csproj.CoreCompileInputs.cache
+D:\Lập trình trực quan\SinhVien\obj\Debug\SinhVien.exe
+D:\Lập trình trực quan\SinhVien\obj\Debug\SinhVien.pdb

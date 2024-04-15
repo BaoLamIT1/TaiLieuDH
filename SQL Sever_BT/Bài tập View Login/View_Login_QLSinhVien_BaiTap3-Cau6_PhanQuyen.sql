@@ -1,0 +1,2 @@
+use BT2
+GRANT UPDATE ON DSSinhVien TO User1;

@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/VuBaoLam_Layout.cshtml";
+
+}
+<partial name="VuBaoLam_Main" model="Model" />   @* Truy cập vào Model để hiện lên sản phẩm  *@
+
+<a asp-action="Create" class="btn btn-primary">Create</a>
+
+@section Scripts {
+    <script>
+        $("ul li a").on('click', function () {
+            var id = $(this).attr("id")
+            $.ajax({
+                url: "/Home/HangHoaTheoLoai",
+                data: { maloaihang: id },
+                success: function (res) {
+                    $("div#contentView").html(res)
+                }
+            })
+        })
+        // FINDING
+        $("input#btnSearch").click(function (e) {
+            var keyword = $("#keyword").val();
+            var data = { keyword: keyword };
+            $.ajax({
+                url: "/Home/tk",           //Đường dẫn gửi request
+                data: data,						//Tham số được gửi kèm request lên server
+                success: function (response) {		// callback function khi nhận response từ server
+                    $("div#contentView").html(response);
+                }
+            });
+        });
+    </script>
+}
+
+
+

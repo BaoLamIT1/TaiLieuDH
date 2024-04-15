@@ -1,0 +1,12 @@
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Test02\bin\Debug\Database1.mdf
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Test02\bin\Debug\Database1_log.ldf
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Test02\bin\Debug\Test02.exe.config
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Test02\bin\Debug\Test02.exe
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Test02\bin\Debug\Test02.pdb
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Test02\obj\Debug\Test02.csproj.AssemblyReference.cache
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Test02\obj\Debug\Test02.Form1.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Test02\obj\Debug\Test02.Properties.Resources.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Test02\obj\Debug\Test02.csproj.GenerateResource.cache
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Test02\obj\Debug\Test02.csproj.CoreCompileInputs.cache
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Test02\obj\Debug\Test02.exe
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Test02\obj\Debug\Test02.pdb

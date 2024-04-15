@@ -1,0 +1,20 @@
+D:\Kì 1_Năm 3\Lập trình Web\KiemTra\bin\Debug\KiemTra.exe.config
+D:\Kì 1_Năm 3\Lập trình Web\KiemTra\bin\Debug\KiemTra.exe
+D:\Kì 1_Năm 3\Lập trình Web\KiemTra\bin\Debug\KiemTra.pdb
+D:\Kì 1_Năm 3\Lập trình Web\KiemTra\obj\Debug\KiemTra.csproj.AssemblyReference.cache
+D:\Kì 1_Năm 3\Lập trình Web\KiemTra\obj\Debug\KiemTra.Form1.resources
+D:\Kì 1_Năm 3\Lập trình Web\KiemTra\obj\Debug\KiemTra.Properties.Resources.resources
+D:\Kì 1_Năm 3\Lập trình Web\KiemTra\obj\Debug\KiemTra.csproj.GenerateResource.cache
+D:\Kì 1_Năm 3\Lập trình Web\KiemTra\obj\Debug\KiemTra.csproj.CoreCompileInputs.cache
+D:\Kì 1_Năm 3\Lập trình Web\KiemTra\obj\Debug\KiemTra.exe
+D:\Kì 1_Năm 3\Lập trình Web\KiemTra\obj\Debug\KiemTra.pdb
+D:\Lập trình trực quan\KiemTra\bin\Debug\KiemTra.exe.config
+D:\Lập trình trực quan\KiemTra\bin\Debug\KiemTra.exe
+D:\Lập trình trực quan\KiemTra\bin\Debug\KiemTra.pdb
+D:\Lập trình trực quan\KiemTra\obj\Debug\KiemTra.csproj.AssemblyReference.cache
+D:\Lập trình trực quan\KiemTra\obj\Debug\KiemTra.Form1.resources
+D:\Lập trình trực quan\KiemTra\obj\Debug\KiemTra.Properties.Resources.resources
+D:\Lập trình trực quan\KiemTra\obj\Debug\KiemTra.csproj.GenerateResource.cache
+D:\Lập trình trực quan\KiemTra\obj\Debug\KiemTra.csproj.CoreCompileInputs.cache
+D:\Lập trình trực quan\KiemTra\obj\Debug\KiemTra.exe
+D:\Lập trình trực quan\KiemTra\obj\Debug\KiemTra.pdb

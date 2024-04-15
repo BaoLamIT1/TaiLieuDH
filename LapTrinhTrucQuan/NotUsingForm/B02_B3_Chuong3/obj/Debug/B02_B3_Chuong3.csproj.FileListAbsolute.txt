@@ -1,0 +1,7 @@
+D:\Lập trình trực quan\B02_B3_Chuong3\bin\Debug\B02_B3_Chuong3.exe.config
+D:\Lập trình trực quan\B02_B3_Chuong3\bin\Debug\B02_B3_Chuong3.exe
+D:\Lập trình trực quan\B02_B3_Chuong3\bin\Debug\B02_B3_Chuong3.pdb
+D:\Lập trình trực quan\B02_B3_Chuong3\obj\Debug\B02_B3_Chuong3.csproj.AssemblyReference.cache
+D:\Lập trình trực quan\B02_B3_Chuong3\obj\Debug\B02_B3_Chuong3.csproj.CoreCompileInputs.cache
+D:\Lập trình trực quan\B02_B3_Chuong3\obj\Debug\B02_B3_Chuong3.exe
+D:\Lập trình trực quan\B02_B3_Chuong3\obj\Debug\B02_B3_Chuong3.pdb
