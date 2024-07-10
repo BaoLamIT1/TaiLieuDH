@@ -1,0 +1,121 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<html>
+    <head>
+    <meta charset="utf-8" />
+    <title>Ví dụ về Mapbox</title>
+    <script src="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.css" rel="stylesheet" />
+    </head>
+<body>
+    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.js"></script>
+    <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.css" type="text/css">
+    <div id="map" style="width: 600px; height:500px;"></div>
+    <style>
+        #buttons {
+            width: 90%;
+            margin: 0 auto;
+        }
+
+        .button {
+            display: inline-block;
+            position: relative;
+            cursor: pointer;
+            width: 20%;
+            padding: 8px;
+            border-radius: 3px;
+            margin-top: 10px;
+            font-size: 12px;
+            text-align: center;
+            color: #fff;
+            background: #ee8a65;
+            font-family: sans-serif;
+            font-weight: bold;
+        }
+    </style>
+    <div id="map"></div>
+    <ul id="buttons">
+        <li id="button-fr" class="button">French</li>
+        <li id="button-ru" class="button">Russian</li>
+        <li id="button-de" class="button">German</li>
+        <li id="button-es" class="button">Spanish</li>
+    </ul>
+
+    <script>
+        mapboxgl.accessToken = 'pk.eyJ1Ijoibmd1eWVudGh1aHVvbmcxOTg3IiwiYSI6ImNrb2Y4dXNlNTBqcmQzMXRyZXA3Yng2NDUifQ.VXut_atNnNAiiw5pi5PwDg';
+
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/streets-v11',
+            center: [105.85, 21.0],
+            zoom: 5
+        });
+
+        document.getElementById('buttons').addEventListener('click', (event) => {
+            const language = event.target.id.substr('button-'.length);
+            // Use setLayoutProperty to set the value of a layout property in a style layer.
+            // The three arguments are the id of the layer, the name of the layout property,
+            // and the new property value.
+            map.setLayoutProperty('country-label', 'text-field', [
+                'get',
+                `name_${language}`
+            ]);
+        });
+
+        var marker = new mapboxgl.Marker({
+            color: "red",   // Color of Marker
+            draggable: true,
+            anchor: 'bottom',    // HN label under the marker
+        }).setLngLat([105.85, 21.0]).addTo(map);   // set marker at HN
+
+        var popup = new mapboxgl.Popup({
+            closeButton: true,
+            closeOnClick: false,
+            anchor: 'right',
+        }).setLngLat([105.85, 21.0]).setHTML("<h1>Hello HN!</h1>").addTo(map);
+
+        map.addControl(new mapboxgl.NavigationControl({
+            showCompass: true,
+            showZoom: true,
+        }));
+        map.addControl(new mapboxgl.GeolocateControl({
+            positionOptions: {
+                enableHighAccuracy: true
+            },
+            trackUserLocation: true
+        }));
+        var scale = new mapboxgl.ScaleControl({
+            maxWidth: 80,
+            unit: 'imperial'
+        });
+        map.addControl(scale);
+        scale.setUnit('metric');
+
+        map.addControl(new mapboxgl.FullscreenControl());   // set full screeen
+
+        map.on('click', function (e) {
+            var popup = new mapboxgl.Popup({
+                closeButton: true,
+                closeOnClick: true,
+            }).setLngLat([e.lngLat.lng, e.lngLat.lat]).setHTML("<h1>vị trí nhấn là: " + e.lngLat + "</h1>").addTo(map);
+        });
+
+        map.on('click', function (e) {
+            new mapboxgl.Marker({
+                color: 'blue',
+                draggable: true,
+            }).setLngLat([e.lngLat.lng, e.lngLat.lat]).addTo(map);
+        });
+        map.addControl(
+            new MapboxDirections({   // navigation bar to find location 
+                accessToken: mapboxgl.accessToken
+            }),
+            'top-left'
+        );
+      
+    </script>
+
+</body>
+</html>

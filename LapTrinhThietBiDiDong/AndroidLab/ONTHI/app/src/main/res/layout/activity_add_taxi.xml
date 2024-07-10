@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AddTaxi">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="90dp"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Số xe: "
+        android:textSize="25dp"/>
+    <EditText
+        android:id="@+id/editSoxe"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="22dp"
+        android:hint="Số xe"
+        android:gravity="right"/>
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="Quãng đường (km): "
+            android:textSize="25dp"/>
+        <EditText
+            android:id="@+id/editQD"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textSize="22dp"
+            android:hint="QD"
+            android:gravity="right"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="Đơn giá (VNĐ): "
+            android:textSize="25dp"/>
+        <EditText
+            android:id="@+id/editDonGia"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textSize="22dp"
+            android:hint="Đơn giá"
+            android:gravity="right"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="Khuyến mãi (%): "
+            android:textSize="25dp"/>
+        <EditText
+            android:id="@+id/editKM"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textSize="22dp"
+            android:hint="KM"
+            android:gravity="right"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="90dp"
+        android:orientation="horizontal"
+        android:layout_gravity="right">
+
+        <Button
+            android:id="@+id/btn_add"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Thêm"
+            android:backgroundTint="@color/button"
+            android:textColor="@color/black"
+            android:textSize="25dp"
+            android:layout_marginRight="20dp"/>
+
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="right"
+            android:text="Quay lại"
+            android:backgroundTint="@color/button"
+            android:textColor="@color/black"
+            android:textSize="25dp"
+            android:layout_marginRight="20dp"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,240 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <div class="container mt-3">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <form>
+                    <div class="form-group">
+                        <label for="MaSP">Mã sản phẩm</label>
+                        <input type="text" class="form-control" id="MaSP" placeholder="Nhập mã sản phẩm">
+                    </div>
+                    <div class="form-group">
+                        <label for="TenSP">Tên sản phẩm</label>
+                        <input type="text" class="form-control" id="TenSP" placeholder="Nhập tên sản phẩm">
+                    </div>
+                    <div class="form-group">
+                        <label for="MoTa">Mô tả</label>
+                        <input type="text" class="form-control" id="MoTa" placeholder="Mô tả sản phẩm">
+                    </div>
+                    <div class="form-group">
+                        <label for="GiaNhap">Giá nhập</label>
+                        <input type="text" class="form-control" id="GiaNhap" placeholder="Nhập giá nhập">
+                    </div>
+                    <div class="form-group">
+                        <label for="GiaBan">Giá bán</label>
+                        <input type="text" class="form-control" id="GiaBan" placeholder="Nhập giá bán">
+                    </div>
+                    <div class="form-group">
+                        <label for="Soluong">Số lượng</label>
+                        <input type="text" class="form-control" id="Soluong" placeholder="Nhập số lượng">
+                    </div>
+                    <div class="form-group">
+                        <label for="chatlieuDropdown" onclick=getAllCL()>Chất liệu</label>
+                        <select class="form-control" id="chatlieuDropdown">
+                            <!-- Các tùy chọn chất liệu sẽ được thêm vào đây -->
+                        </select>
+
+                    </div>
+                    <button id="btn-acp" type="submit" class="btn btn-primary" onclick=insertSP()>Thêm mới</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="text-center">Danh sách sản phẩm</h2>
+                <table class="table table-striped">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>Mã sản phẩm</th>
+                            <th>Tên sản phẩm</th>
+                            <th>Mô tả</th>
+                            <th>Giá nhập</th>
+                            <th>Giá bán</th>
+                            <th>Số lượng</th>
+                            <th>Mã Chất liệu</th>
+                            <th>Chất liệu</th>
+                            <th>Edit</th>
+                            <th>Delete</th>
+                        </tr>
+                    </thead>
+                    <tbody id="allSP">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
+@section Scripts {
+    <script type="text/javascript">
+        $(document).ready(function () {
+            getAllSP();
+            getAllCL();
+        });
+        function insertSP() {
+            var id = $("#MaSP").val();
+            var name = $("#TenSP").val();
+            var des = $("#MoTa").val();
+            var gianhap = $("#GiaNhap").val();
+            var giaban = $("#GiaBan").val();
+            var soluong = $("#Soluong").val();
+            var chatlieu = $("#chatlieuDropdown").val();
+            var sendinfo = {
+                "MaSP": id,
+                "TenSP": name,
+                "ChatLieu": chatlieu,
+                "MoTa": des,
+                "GiaNhap": gianhap,
+                "GiaBan": giaban,
+                "Soluong": soluong
+            };
+            //alert(id + "/" + name + des + gianhap + giaban + soluong + chatlieu)
+            $.ajax({
+                url: "http://192.168.56.1:5000/product/addProduct",
+                method: "POST",
+                dataType: "json",
+                contentType: "application/json",
+                data: JSON.stringify(sendinfo),
+                success: function (data) {
+                    alert("Thêm sản phẩm thành công!")
+                    getAllCL();
+                    getAllSP();
+                },
+                error: function (xhr, status, error) {
+                    alert("Không thể thêm sản phẩm: " + error)
+                }
+            });
+        }
+        function getAllSP() {
+            //getAllCL();
+            $.ajax({
+                url: "http://192.168.56.1:5000/product/getAll",
+                method: "GET",
+                dataType: "json",
+                contentType: "application/json",
+                success: function (data) {
+                    var table = '';
+                    $.each(data, function (key, item) {
+                        table += '<tr id=' + item.MaSP + '>';
+                        table += '<td>' + item.MaSP + '</td>';
+                        table += '<td>' + item.TenSP + '</td>';
+                        table += '<td>' + item.MoTa + '</td>';
+                        table += '<td>' + item.GiaNhap + '</td>';
+                        table += '<td>' + item.GiaBan + '</td>';
+                        table += '<td>' + item.Soluong + '</td>';
+                        table += '<td>' + item.ChatLieu + '</td>';
+                        table += '<td>' + item.TenCL + '</td>';
+                        table += '<td> <button class="btn btn-primary" onclick=showedit(' + item.MaSP + ')>Edit</button></td>';
+                        table += '<td> <button class="btn btn-primary" onclick=deleteSP(' + item.MaSP + ')>Delete</button></td>';
+                        table += '</tr>';
+
+                    });
+                    document.getElementById("allSP").innerHTML = table;
+                    alert("Tải danh sách sản phẩm thành công!");
+                },
+                error: function (xhr, status, error) {
+                    alert("Không thể tải danh sách sản phẩm: " + error);
+                }
+            });
+        }
+        function deleteSP(id) {
+            $.ajax({
+                url: "http://192.168.56.1:5000/product/delete/" + id, // Use variable id, not string "id"
+                method: "DELETE",
+                dataType: "json",
+                contentType: "application/json",
+                success: function (data) {
+                    alert("Xóa sản phẩm thành công!");
+                    getAllSP();
+                },
+                error: function (xhr, status, error) {
+                    alert("Không thể xóa sản phẩm: " + error);
+                }
+            });
+        }
+        function getAllCL() {
+            $.ajax({
+                url: "http://192.168.56.1:5000/product/getAllMaterial",
+                method: "GET",
+                dataType: "json",
+                contentType: "application/json",
+                success: function (data) {
+                    alert("tai chat lieu thanh cong");
+                    $('#chatlieuDropdown').empty();
+                    // Thêm các lựa chọn mới vào dropdown
+                    $.each(data, function (key, chatlieu) {
+                        $('#chatlieuDropdown').append($('<option></option>').attr('value', chatlieu.MaCL).text(chatlieu.TenCL));
+                    });
+                },
+                error: function (xhr, status, error) {
+                    console.log("Không thể tải danh sách chất liệu: " + error);
+                }
+            });
+        }
+        function showedit(id) {
+            // Tìm đến hàng có id tương ứng
+            var row = document.getElementById(id);
+
+            // Lấy dữ liệu từ các ô trong hàng
+            var masp = row.cells[0].innerText;
+            var name = row.cells[1].innerText;
+            var des = row.cells[2].innerText;
+            var gianhap = row.cells[3].innerText;
+            var giaban = row.cells[4].innerText;
+            var soluong = row.cells[5].innerText;
+            var chatlieu = row.cells[6].innerText;
+
+            // Điền dữ liệu vào form
+            $("#MaSP").val(masp).prop('readonly', true);
+            $("#TenSP").val(name);
+            $("#MoTa").val(des);
+            $("#GiaNhap").val(gianhap);
+            $("#GiaBan").val(giaban);
+            $("#Soluong").val(soluong);
+            $("#chatlieuDropdown").val(chatlieu);
+
+            // Thay đổi nút thêm thành nút chỉnh sửa
+            $("#btn-acp").text("Chỉnh sửa").attr("onclick", "editSP(" + id + ")");
+        }
+        function editSP(id) {
+            var name = $("#TenSP").val();
+            var des = $("#MoTa").val();
+            var gianhap = $("#GiaNhap").val();
+            var giaban = $("#GiaBan").val();
+            var soluong = $("#Soluong").val();
+            var chatlieu = $("#chatlieuDropdown").val();
+            var sendinfo = {
+                "MaSP": id,
+                "TenSP": name,
+                "MoTa": des,
+                "GiaNhap": gianhap,
+                "GiaBan": giaban,
+                "Soluong": soluong,
+                "ChatLieu": chatlieu
+            };
+            $.ajax({
+                url: "http://192.168.56.1:5000/product/update",
+                method: "PUT",
+                dataType: "json",
+                contentType: "application/json",
+                data: JSON.stringify(sendinfo),
+                success: function (data) {
+                    alert("Chỉnh sửa sản phẩm thành công!");
+                    $("#btn-acp").text("Thêm mới").attr(onclick, insertSP());
+                    getAllCL();
+                    getAllSP();
+                },
+                error: function (xhr, status, error) {
+                    alert("Không thể chỉnh sửa sản phẩm: " + error);
+                }
+            });
+        }
+    </script>
+}

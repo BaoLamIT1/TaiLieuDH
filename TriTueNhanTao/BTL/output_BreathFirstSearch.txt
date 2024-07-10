@@ -1,0 +1,13 @@
+Phat trien trang thai       Trang thai ke         Danh Sach L
+==================================================================================
+         B         | A  F  G  H          |A F G H 
+         A         | C                   |F G H C 
+         F         | E                   |G H C E 
+         G         | E  H                |H C E 
+         H         | C  D                |C E D 
+         C         | I                   |E D I 
+         E         | D                   |D I 
+         D         | I                   |I 
+         I         |
+ found 
+Found: B -> A -> C -> I

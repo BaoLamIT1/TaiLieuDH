@@ -1,0 +1,4 @@
+﻿  Test03.cpp
+D:\API\Test03\Test03.cpp(201,52): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\API\Test03\Test03.cpp(202,52): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  Test03.vcxproj -> D:\API\Test03\x64\Debug\Test03.exe

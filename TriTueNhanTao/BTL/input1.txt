@@ -1,0 +1,12 @@
+10
+4 A C D E F
+0 B
+1 C H 
+2 D H E 
+2 E K I
+2 F G I
+0 G
+1 H K
+2 I B K
+1 K B
+A B
