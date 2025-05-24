@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/etSearch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tìm kiếm khoản thu/chi"
+        android:imeOptions="actionDone"
+        android:singleLine="true"
+        android:inputType="text"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"/>
+
+
+
+    <TextView
+        android:id="@+id/tvBalance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Số dư còn lại: "
+        android:paddingBottom="16dp"
+        android:textSize="18sp" />
+    <ListView
+        android:id="@+id/lst_main"
+        android:layout_width="match_parent"
+        android:layout_height="279dp"
+        tools:listitem="@layout/lst_item"
+        />
+</LinearLayout>

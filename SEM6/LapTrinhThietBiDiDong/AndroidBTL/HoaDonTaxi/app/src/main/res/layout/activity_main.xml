@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/edt_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Search"
+        >
+
+    </EditText>
+
+    <ListView
+        android:id="@+id/lstView_main"
+        android:layout_width="match_parent"
+        tools:listitem="@layout/listview_item"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:focusableInTouchMode="true"
+        android:layout_height="507dp">
+
+    </ListView>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/btn_Them"
+        android:layout_width="49dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="350dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        app:fabSize="normal">
+
+    </com.google.android.material.floatingactionbutton.FloatingActionButton>
+
+
+</LinearLayout>

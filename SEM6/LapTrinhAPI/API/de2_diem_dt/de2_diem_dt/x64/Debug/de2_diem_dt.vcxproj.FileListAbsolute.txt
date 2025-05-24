@@ -1,0 +1,2 @@
+E:\API\tuhoc\de2_diem_dt\x64\Debug\de2_diem_dt.exe
+D:\API\de2_diem_dt\de2_diem_dt\x64\Debug\de2_diem_dt.exe

@@ -1,0 +1,33 @@
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\bin\Debug\net8.0\appsettings.Development.json
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\bin\Debug\net8.0\appsettings.json
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\bin\Debug\net8.0\api.staticwebassets.runtime.json
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\bin\Debug\net8.0\api.exe
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\bin\Debug\net8.0\api.deps.json
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\bin\Debug\net8.0\api.runtimeconfig.json
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\bin\Debug\net8.0\api.dll
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\bin\Debug\net8.0\api.pdb
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\obj\Debug\net8.0\api.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\obj\Debug\net8.0\api.AssemblyInfoInputs.cache
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\obj\Debug\net8.0\api.AssemblyInfo.cs
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\obj\Debug\net8.0\api.csproj.CoreCompileInputs.cache
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\obj\Debug\net8.0\api.MvcApplicationPartsAssemblyInfo.cache
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\obj\Debug\net8.0\api.RazorAssemblyInfo.cache
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\obj\Debug\net8.0\api.RazorAssemblyInfo.cs
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\obj\Debug\net8.0\staticwebassets.build.json
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\obj\Debug\net8.0\staticwebassets.development.json
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\obj\Debug\net8.0\staticwebassets\msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\obj\Debug\net8.0\staticwebassets\msbuild.build.api.props
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.api.props
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.api.props
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\obj\Debug\net8.0\scopedcss\bundle\api.styles.css
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\obj\Debug\net8.0\scopedcss\projectbundle\api.bundle.scp.css
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\obj\Debug\net8.0\api.dll
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\obj\Debug\net8.0\refint\api.dll
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\obj\Debug\net8.0\api.pdb
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\obj\Debug\net8.0\api.genruntimeconfig.cache
+D:\tai_lieu\Nam3-ki2\Lập trình API\api\obj\Debug\net8.0\ref\api.dll
+D:\ha\ki2nam3\api\api\obj\Debug\net8.0\api.dll
+D:\ha\ki2nam3\api\api\obj\Debug\net8.0\refint\api.dll
+D:\ha\ki2nam3\api\api\obj\Debug\net8.0\api.pdb

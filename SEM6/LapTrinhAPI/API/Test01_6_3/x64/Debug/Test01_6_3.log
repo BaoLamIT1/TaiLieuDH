@@ -1,0 +1,12 @@
+﻿  Test01_6_3.cpp
+D:\API\Test01_6_3\Test01_6_3.cpp(259,48): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\API\Test01_6_3\Test01_6_3.cpp(260,48): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\API\Test01_6_3\Test01_6_3.cpp(287,39): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\API\Test01_6_3\Test01_6_3.cpp(288,39): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\API\Test01_6_3\Test01_6_3.cpp(291,39): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\API\Test01_6_3\Test01_6_3.cpp(292,39): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\API\Test01_6_3\Test01_6_3.cpp(310,39): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\API\Test01_6_3\Test01_6_3.cpp(311,39): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\API\Test01_6_3\Test01_6_3.cpp(314,39): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\API\Test01_6_3\Test01_6_3.cpp(315,39): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  Test01_6_3.vcxproj -> D:\API\Test01_6_3\x64\Debug\Test01_6_3.exe
