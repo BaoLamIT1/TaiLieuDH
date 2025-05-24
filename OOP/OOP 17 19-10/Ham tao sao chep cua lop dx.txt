@@ -1,0 +1,6 @@
+Trong sơ đồ dx nếu tồn tại lớp nào có thuộc tính là con trỏ hoặc tham chiếu thì cần xây dựng hàm tạo sao chép 
+cho tất cả các lớp
+Cú pháp
+Tên_lớp_dx(const ten_lớp_dx &ob): tên_lớp_Cơ_sở((tên_lớp_cs)ob)
+{ // lệnh cấp phát và gán cho các tt của lớp dx
+}
