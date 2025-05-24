@@ -1,0 +1,22 @@
+F:\vsC#\THUCHANH_BUOI3\Bai4_MenuStrip\Bai4_MenuStrip\bin\Debug\Bai4_MenuStrip.exe.config
+F:\vsC#\THUCHANH_BUOI3\Bai4_MenuStrip\Bai4_MenuStrip\bin\Debug\Bai4_MenuStrip.exe
+F:\vsC#\THUCHANH_BUOI3\Bai4_MenuStrip\Bai4_MenuStrip\bin\Debug\Bai4_MenuStrip.pdb
+F:\vsC#\THUCHANH_BUOI3\Bai4_MenuStrip\Bai4_MenuStrip\obj\Debug\Bai4_MenuStrip.csproj.AssemblyReference.cache
+F:\vsC#\THUCHANH_BUOI3\Bai4_MenuStrip\Bai4_MenuStrip\obj\Debug\Bai4_MenuStrip.Form1.resources
+F:\vsC#\THUCHANH_BUOI3\Bai4_MenuStrip\Bai4_MenuStrip\obj\Debug\Bai4_MenuStrip.Form2.resources
+F:\vsC#\THUCHANH_BUOI3\Bai4_MenuStrip\Bai4_MenuStrip\obj\Debug\Bai4_MenuStrip.Properties.Resources.resources
+F:\vsC#\THUCHANH_BUOI3\Bai4_MenuStrip\Bai4_MenuStrip\obj\Debug\Bai4_MenuStrip.csproj.GenerateResource.cache
+F:\vsC#\THUCHANH_BUOI3\Bai4_MenuStrip\Bai4_MenuStrip\obj\Debug\Bai4_MenuStrip.csproj.CoreCompileInputs.cache
+F:\vsC#\THUCHANH_BUOI3\Bai4_MenuStrip\Bai4_MenuStrip\obj\Debug\Bai4_MenuStrip.exe
+F:\vsC#\THUCHANH_BUOI3\Bai4_MenuStrip\Bai4_MenuStrip\obj\Debug\Bai4_MenuStrip.pdb
+D:\Lập trình trực quan\Bai4_MenuStrip\Bai4_MenuStrip\bin\Debug\Bai4_MenuStrip.exe.config
+D:\Lập trình trực quan\Bai4_MenuStrip\Bai4_MenuStrip\bin\Debug\Bai4_MenuStrip.exe
+D:\Lập trình trực quan\Bai4_MenuStrip\Bai4_MenuStrip\bin\Debug\Bai4_MenuStrip.pdb
+D:\Lập trình trực quan\Bai4_MenuStrip\Bai4_MenuStrip\obj\Debug\Bai4_MenuStrip.csproj.AssemblyReference.cache
+D:\Lập trình trực quan\Bai4_MenuStrip\Bai4_MenuStrip\obj\Debug\Bai4_MenuStrip.Form1.resources
+D:\Lập trình trực quan\Bai4_MenuStrip\Bai4_MenuStrip\obj\Debug\Bai4_MenuStrip.Form2.resources
+D:\Lập trình trực quan\Bai4_MenuStrip\Bai4_MenuStrip\obj\Debug\Bai4_MenuStrip.Properties.Resources.resources
+D:\Lập trình trực quan\Bai4_MenuStrip\Bai4_MenuStrip\obj\Debug\Bai4_MenuStrip.csproj.GenerateResource.cache
+D:\Lập trình trực quan\Bai4_MenuStrip\Bai4_MenuStrip\obj\Debug\Bai4_MenuStrip.csproj.CoreCompileInputs.cache
+D:\Lập trình trực quan\Bai4_MenuStrip\Bai4_MenuStrip\obj\Debug\Bai4_MenuStrip.exe
+D:\Lập trình trực quan\Bai4_MenuStrip\Bai4_MenuStrip\obj\Debug\Bai4_MenuStrip.pdb

@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[tbDiem]
+(
+	[MaM] INT NOT NULL PRIMARY KEY, 
+    [TenM] NVARCHAR(50) NOT NULL, 
+    [STC] INT NOT NULL, 
+    [Diem] INT NOT NULL
+)

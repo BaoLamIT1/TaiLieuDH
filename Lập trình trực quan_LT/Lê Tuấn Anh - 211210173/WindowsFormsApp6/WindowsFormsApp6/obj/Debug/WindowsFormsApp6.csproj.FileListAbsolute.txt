@@ -1,0 +1,24 @@
+C:\Users\LENOVO\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Database1.mdf
+C:\Users\LENOVO\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Database1_log.ldf
+C:\Users\LENOVO\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\LENOVO\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\LENOVO\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\LENOVO\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\LENOVO\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\LENOVO\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Lê Tuấn Anh - 211210173\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Database1.mdf
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Lê Tuấn Anh - 211210173\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Database1_log.ldf
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Lê Tuấn Anh - 211210173\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Lê Tuấn Anh - 211210173\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Lê Tuấn Anh - 211210173\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Lê Tuấn Anh - 211210173\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Lê Tuấn Anh - 211210173\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Lê Tuấn Anh - 211210173\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Lê Tuấn Anh - 211210173\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Lê Tuấn Anh - 211210173\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Lê Tuấn Anh - 211210173\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\Lê Tuấn Anh - 211210173\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb

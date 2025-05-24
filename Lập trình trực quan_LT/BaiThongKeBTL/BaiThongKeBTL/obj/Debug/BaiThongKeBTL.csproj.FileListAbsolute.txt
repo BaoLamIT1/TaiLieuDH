@@ -1,0 +1,22 @@
+D:\Nam3\ASP\BaiThongKeBTL\BaiThongKeBTL\bin\Debug\BaiThongKeBTL.exe.config
+D:\Nam3\ASP\BaiThongKeBTL\BaiThongKeBTL\bin\Debug\BaiThongKeBTL.exe
+D:\Nam3\ASP\BaiThongKeBTL\BaiThongKeBTL\bin\Debug\BaiThongKeBTL.pdb
+D:\Nam3\ASP\BaiThongKeBTL\BaiThongKeBTL\obj\Debug\BaiThongKeBTL.csproj.AssemblyReference.cache
+D:\Nam3\ASP\BaiThongKeBTL\BaiThongKeBTL\obj\Debug\BaiThongKeBTL.Properties.Resources.resources
+D:\Nam3\ASP\BaiThongKeBTL\BaiThongKeBTL\obj\Debug\BaiThongKeBTL.csproj.GenerateResource.cache
+D:\Nam3\ASP\BaiThongKeBTL\BaiThongKeBTL\obj\Debug\BaiThongKeBTL.csproj.CoreCompileInputs.cache
+D:\Nam3\ASP\BaiThongKeBTL\BaiThongKeBTL\obj\Debug\BaiThongKeBTL.exe
+D:\Nam3\ASP\BaiThongKeBTL\BaiThongKeBTL\obj\Debug\BaiThongKeBTL.pdb
+D:\Nam3\ASP\BaiThongKeBTL\BaiThongKeBTL\obj\Debug\BaiThongKeBTL.FormTKNVtheoNNvaCM.resources
+D:\Nam3\ASP\BaiThongKeBTL\BaiThongKeBTL\obj\Debug\BaiThongKeBTL.FormBCQuaTrinhDT.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BaiThongKeBTL\BaiThongKeBTL\bin\Debug\BaiThongKeBTL.exe.config
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BaiThongKeBTL\BaiThongKeBTL\bin\Debug\BaiThongKeBTL.exe
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BaiThongKeBTL\BaiThongKeBTL\bin\Debug\BaiThongKeBTL.pdb
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BaiThongKeBTL\BaiThongKeBTL\obj\Debug\BaiThongKeBTL.csproj.AssemblyReference.cache
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BaiThongKeBTL\BaiThongKeBTL\obj\Debug\BaiThongKeBTL.FormTKNVtheoNNvaCM.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BaiThongKeBTL\BaiThongKeBTL\obj\Debug\BaiThongKeBTL.FormBCQuaTrinhDT.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BaiThongKeBTL\BaiThongKeBTL\obj\Debug\BaiThongKeBTL.Properties.Resources.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BaiThongKeBTL\BaiThongKeBTL\obj\Debug\BaiThongKeBTL.csproj.GenerateResource.cache
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BaiThongKeBTL\BaiThongKeBTL\obj\Debug\BaiThongKeBTL.csproj.CoreCompileInputs.cache
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BaiThongKeBTL\BaiThongKeBTL\obj\Debug\BaiThongKeBTL.exe
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BaiThongKeBTL\BaiThongKeBTL\obj\Debug\BaiThongKeBTL.pdb

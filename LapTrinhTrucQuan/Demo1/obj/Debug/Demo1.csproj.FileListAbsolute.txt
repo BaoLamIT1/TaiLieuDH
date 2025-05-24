@@ -1,0 +1,7 @@
+D:\Lập trình trực quan\Demo1\obj\Debug\Demo1.csproj.AssemblyReference.cache
+D:\Lập trình trực quan\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+D:\Lập trình trực quan\Demo1\bin\Debug\Demo1.exe.config
+D:\Lập trình trực quan\Demo1\bin\Debug\Demo1.exe
+D:\Lập trình trực quan\Demo1\bin\Debug\Demo1.pdb
+D:\Lập trình trực quan\Demo1\obj\Debug\Demo1.exe
+D:\Lập trình trực quan\Demo1\obj\Debug\Demo1.pdb

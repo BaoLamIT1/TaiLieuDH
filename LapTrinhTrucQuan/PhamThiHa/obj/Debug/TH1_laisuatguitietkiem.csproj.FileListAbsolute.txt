@@ -1,0 +1,33 @@
+E:\VisualStudio\LTTQ\winform\Thuchanh\TH1_laisuatguitietkiem\bin\Debug\TH1_laisuatguitietkiem.exe.config
+E:\VisualStudio\LTTQ\winform\Thuchanh\TH1_laisuatguitietkiem\bin\Debug\TH1_laisuatguitietkiem.exe
+E:\VisualStudio\LTTQ\winform\Thuchanh\TH1_laisuatguitietkiem\bin\Debug\TH1_laisuatguitietkiem.pdb
+E:\VisualStudio\LTTQ\winform\Thuchanh\TH1_laisuatguitietkiem\obj\Debug\TH1_laisuatguitietkiem.csproj.AssemblyReference.cache
+E:\VisualStudio\LTTQ\winform\Thuchanh\TH1_laisuatguitietkiem\obj\Debug\TH1_laisuatguitietkiem.Form1.resources
+E:\VisualStudio\LTTQ\winform\Thuchanh\TH1_laisuatguitietkiem\obj\Debug\TH1_laisuatguitietkiem.Form2.resources
+E:\VisualStudio\LTTQ\winform\Thuchanh\TH1_laisuatguitietkiem\obj\Debug\TH1_laisuatguitietkiem.Properties.Resources.resources
+E:\VisualStudio\LTTQ\winform\Thuchanh\TH1_laisuatguitietkiem\obj\Debug\TH1_laisuatguitietkiem.csproj.GenerateResource.cache
+E:\VisualStudio\LTTQ\winform\Thuchanh\TH1_laisuatguitietkiem\obj\Debug\TH1_laisuatguitietkiem.csproj.CoreCompileInputs.cache
+E:\VisualStudio\LTTQ\winform\Thuchanh\TH1_laisuatguitietkiem\obj\Debug\TH1_laisuatguitietkiem.exe
+E:\VisualStudio\LTTQ\winform\Thuchanh\TH1_laisuatguitietkiem\obj\Debug\TH1_laisuatguitietkiem.pdb
+E:\VisualStudio\LTTQ\Nguyễn Thị Phương Anh - 211240962\TH1_laisuatguitietkiem\bin\Debug\TH1_laisuatguitietkiem.exe.config
+E:\VisualStudio\LTTQ\Nguyễn Thị Phương Anh - 211240962\TH1_laisuatguitietkiem\bin\Debug\TH1_laisuatguitietkiem.exe
+E:\VisualStudio\LTTQ\Nguyễn Thị Phương Anh - 211240962\TH1_laisuatguitietkiem\bin\Debug\TH1_laisuatguitietkiem.pdb
+E:\VisualStudio\LTTQ\Nguyễn Thị Phương Anh - 211240962\TH1_laisuatguitietkiem\obj\Debug\TH1_laisuatguitietkiem.csproj.AssemblyReference.cache
+E:\VisualStudio\LTTQ\Nguyễn Thị Phương Anh - 211240962\TH1_laisuatguitietkiem\obj\Debug\TH1_laisuatguitietkiem.Form1.resources
+E:\VisualStudio\LTTQ\Nguyễn Thị Phương Anh - 211240962\TH1_laisuatguitietkiem\obj\Debug\TH1_laisuatguitietkiem.Form2.resources
+E:\VisualStudio\LTTQ\Nguyễn Thị Phương Anh - 211240962\TH1_laisuatguitietkiem\obj\Debug\TH1_laisuatguitietkiem.Properties.Resources.resources
+E:\VisualStudio\LTTQ\Nguyễn Thị Phương Anh - 211240962\TH1_laisuatguitietkiem\obj\Debug\TH1_laisuatguitietkiem.csproj.GenerateResource.cache
+E:\VisualStudio\LTTQ\Nguyễn Thị Phương Anh - 211240962\TH1_laisuatguitietkiem\obj\Debug\TH1_laisuatguitietkiem.csproj.CoreCompileInputs.cache
+E:\VisualStudio\LTTQ\Nguyễn Thị Phương Anh - 211240962\TH1_laisuatguitietkiem\obj\Debug\TH1_laisuatguitietkiem.exe
+E:\VisualStudio\LTTQ\Nguyễn Thị Phương Anh - 211240962\TH1_laisuatguitietkiem\obj\Debug\TH1_laisuatguitietkiem.pdb
+D:\Lập trình trực quan\PhamThiHa\bin\Debug\TH1_laisuatguitietkiem.exe.config
+D:\Lập trình trực quan\PhamThiHa\bin\Debug\TH1_laisuatguitietkiem.exe
+D:\Lập trình trực quan\PhamThiHa\bin\Debug\TH1_laisuatguitietkiem.pdb
+D:\Lập trình trực quan\PhamThiHa\obj\Debug\TH1_laisuatguitietkiem.csproj.AssemblyReference.cache
+D:\Lập trình trực quan\PhamThiHa\obj\Debug\TH1_laisuatguitietkiem.Form1.resources
+D:\Lập trình trực quan\PhamThiHa\obj\Debug\TH1_laisuatguitietkiem.Form2.resources
+D:\Lập trình trực quan\PhamThiHa\obj\Debug\TH1_laisuatguitietkiem.Properties.Resources.resources
+D:\Lập trình trực quan\PhamThiHa\obj\Debug\TH1_laisuatguitietkiem.csproj.GenerateResource.cache
+D:\Lập trình trực quan\PhamThiHa\obj\Debug\TH1_laisuatguitietkiem.csproj.CoreCompileInputs.cache
+D:\Lập trình trực quan\PhamThiHa\obj\Debug\TH1_laisuatguitietkiem.exe
+D:\Lập trình trực quan\PhamThiHa\obj\Debug\TH1_laisuatguitietkiem.pdb

@@ -1,0 +1,563 @@
+D:\Lập trình trực quan\BTL_Lan1\bin\Debug\BTL_Lan1.exe.config
+D:\Lập trình trực quan\BTL_Lan1\bin\Debug\BTL_Lan1.exe
+D:\Lập trình trực quan\BTL_Lan1\bin\Debug\BTL_Lan1.pdb
+D:\Lập trình trực quan\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.AssemblyReference.cache
+D:\Lập trình trực quan\BTL_Lan1\obj\Debug\BTL_Lan1.Form1.resources
+D:\Lập trình trực quan\BTL_Lan1\obj\Debug\BTL_Lan1.HoSoNhanVien.resources
+D:\Lập trình trực quan\BTL_Lan1\obj\Debug\BTL_Lan1.Properties.Resources.resources
+D:\Lập trình trực quan\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.GenerateResource.cache
+D:\Lập trình trực quan\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.CoreCompileInputs.cache
+D:\Lập trình trực quan\BTL_Lan1\obj\Debug\BTL_Lan1.exe
+D:\Lập trình trực quan\BTL_Lan1\obj\Debug\BTL_Lan1.pdb
+D:\Lập trình trực quan\BTL_Lan1\obj\Debug\BTL_Lan1.QTCT.resources
+D:\Lập trình trực quan\BTL_Lan1\obj\Debug\BTL_Lan1.QTDT.resources
+D:\Lập trình trực quan\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem1.resources
+D:\Lập trình trực quan\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem2.resources
+D:\Lập trình trực quan\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoQTDT.resources
+D:\Lập trình trực quan\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoQTCT.resources
+E:\lập trình trực quan\BTL\BTL_Lan1 (1)\bin\Debug\BTL_Lan1.exe.config
+E:\lập trình trực quan\BTL\BTL_Lan1 (1)\bin\Debug\BTL_Lan1.exe
+E:\lập trình trực quan\BTL\BTL_Lan1 (1)\bin\Debug\BTL_Lan1.pdb
+E:\lập trình trực quan\BTL\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.csproj.AssemblyReference.cache
+E:\lập trình trực quan\BTL\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.BaoCaoQTCT.resources
+E:\lập trình trực quan\BTL\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.BaoCaoQTDT.resources
+E:\lập trình trực quan\BTL\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.Form1.resources
+E:\lập trình trực quan\BTL\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.HoSoNhanVien.resources
+E:\lập trình trực quan\BTL\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.Properties.Resources.resources
+E:\lập trình trực quan\BTL\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.QTCT.resources
+E:\lập trình trực quan\BTL\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.QTDT.resources
+E:\lập trình trực quan\BTL\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.TimKiem1.resources
+E:\lập trình trực quan\BTL\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.TimKiem2.resources
+E:\lập trình trực quan\BTL\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.TimKiem3.resources
+E:\lập trình trực quan\BTL\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.csproj.GenerateResource.cache
+E:\lập trình trực quan\BTL\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.csproj.CoreCompileInputs.cache
+E:\lập trình trực quan\BTL\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.exe
+E:\lập trình trực quan\BTL\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.pdb
+C:\Users\nqh25\Downloads\BTL_Lan1 (1)\bin\Debug\BTL_Lan1.exe.config
+C:\Users\nqh25\Downloads\BTL_Lan1 (1)\bin\Debug\BTL_Lan1.exe
+C:\Users\nqh25\Downloads\BTL_Lan1 (1)\bin\Debug\BTL_Lan1.pdb
+C:\Users\nqh25\Downloads\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.csproj.AssemblyReference.cache
+C:\Users\nqh25\Downloads\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.BaoCaoQTCT.resources
+C:\Users\nqh25\Downloads\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.BaoCaoQTDT.resources
+C:\Users\nqh25\Downloads\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.Form1.resources
+C:\Users\nqh25\Downloads\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.HoSoNhanVien.resources
+C:\Users\nqh25\Downloads\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.Properties.Resources.resources
+C:\Users\nqh25\Downloads\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.QTCT.resources
+C:\Users\nqh25\Downloads\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.QTDT.resources
+C:\Users\nqh25\Downloads\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.TimKiem1.resources
+C:\Users\nqh25\Downloads\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.TimKiem2.resources
+C:\Users\nqh25\Downloads\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.TimKiem3.resources
+C:\Users\nqh25\Downloads\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.csproj.GenerateResource.cache
+C:\Users\nqh25\Downloads\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.csproj.CoreCompileInputs.cache
+C:\Users\nqh25\Downloads\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.exe
+C:\Users\nqh25\Downloads\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.pdb
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\BTL_Lan1.exe.config
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\BTL_Lan1.exe
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\BTL_Lan1.pdb
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.AssemblyReference.cache
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoQTCT.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoQTDT.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\obj\Debug\BTL_Lan1.Form1.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\obj\Debug\BTL_Lan1.HoSoNhanVien.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\obj\Debug\BTL_Lan1.Properties.Resources.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\obj\Debug\BTL_Lan1.QTCT.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\obj\Debug\BTL_Lan1.QTDT.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem2.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.GenerateResource.cache
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.CoreCompileInputs.cache
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\obj\Debug\BTL_Lan1.exe
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\obj\Debug\BTL_Lan1.pdb
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoNgoaiNguVaChuyenMon.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\obj\Debug\BTL_Lan1.NhanVienDangTrongQTDT.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem1.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem3.resources
+E:\lập trình trực quan\BTL\BTL_Lan1\bin\Debug\BTL_Lan1.exe.config
+E:\lập trình trực quan\BTL\BTL_Lan1\bin\Debug\BTL_Lan1.exe
+E:\lập trình trực quan\BTL\BTL_Lan1\bin\Debug\BTL_Lan1.pdb
+E:\lập trình trực quan\BTL\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.AssemblyReference.cache
+E:\lập trình trực quan\BTL\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoNgoaiNguVaChuyenMon.resources
+E:\lập trình trực quan\BTL\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoQTCT.resources
+E:\lập trình trực quan\BTL\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoQTDT.resources
+E:\lập trình trực quan\BTL\BTL_Lan1\obj\Debug\BTL_Lan1.Form1.resources
+E:\lập trình trực quan\BTL\BTL_Lan1\obj\Debug\BTL_Lan1.HoSoNhanVien.resources
+E:\lập trình trực quan\BTL\BTL_Lan1\obj\Debug\BTL_Lan1.NhanVienDangTrongQTDT.resources
+E:\lập trình trực quan\BTL\BTL_Lan1\obj\Debug\BTL_Lan1.Properties.Resources.resources
+E:\lập trình trực quan\BTL\BTL_Lan1\obj\Debug\BTL_Lan1.QTCT.resources
+E:\lập trình trực quan\BTL\BTL_Lan1\obj\Debug\BTL_Lan1.QTDT.resources
+E:\lập trình trực quan\BTL\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem2.resources
+E:\lập trình trực quan\BTL\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem1.resources
+E:\lập trình trực quan\BTL\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem3.resources
+E:\lập trình trực quan\BTL\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.GenerateResource.cache
+E:\lập trình trực quan\BTL\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.CoreCompileInputs.cache
+E:\lập trình trực quan\BTL\BTL_Lan1\obj\Debug\BTL_Lan1.exe
+E:\lập trình trực quan\BTL\BTL_Lan1\obj\Debug\BTL_Lan1.pdb
+E:\lập trình trực quan\BTL\BTL_Lan1\obj\Debug\BTL_Lan1.Dangnhap.resources
+D:\Downloads\BTL_Lan1\bin\Debug\BTL_Lan1.exe.config
+D:\Downloads\BTL_Lan1\bin\Debug\BTL_Lan1.exe
+D:\Downloads\BTL_Lan1\bin\Debug\BTL_Lan1.pdb
+D:\Downloads\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.AssemblyReference.cache
+D:\Downloads\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoNgoaiNguVaChuyenMon.resources
+D:\Downloads\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoQTCT.resources
+D:\Downloads\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoQTDT.resources
+D:\Downloads\BTL_Lan1\obj\Debug\BTL_Lan1.Dangnhap.resources
+D:\Downloads\BTL_Lan1\obj\Debug\BTL_Lan1.Form1.resources
+D:\Downloads\BTL_Lan1\obj\Debug\BTL_Lan1.HoSoNhanVien.resources
+D:\Downloads\BTL_Lan1\obj\Debug\BTL_Lan1.NhanVienDangTrongQTDT.resources
+D:\Downloads\BTL_Lan1\obj\Debug\BTL_Lan1.Properties.Resources.resources
+D:\Downloads\BTL_Lan1\obj\Debug\BTL_Lan1.QTCT.resources
+D:\Downloads\BTL_Lan1\obj\Debug\BTL_Lan1.QTDT.resources
+D:\Downloads\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem2.resources
+D:\Downloads\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem1.resources
+D:\Downloads\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem3.resources
+D:\Downloads\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.GenerateResource.cache
+D:\Downloads\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.CoreCompileInputs.cache
+D:\Downloads\BTL_Lan1\obj\Debug\BTL_Lan1.exe
+D:\Downloads\BTL_Lan1\obj\Debug\BTL_Lan1.pdb
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\BTL_Lan1.exe.config
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\BTL_Lan1.exe
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\BTL_Lan1.pdb
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\EnvDTE.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\stdole.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\EnvDTE.xml
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Documents\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoNgoaiNguVaChuyenMon.resources
+C:\Users\Acer\Documents\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoQTCT.resources
+C:\Users\Acer\Documents\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoQTDT.resources
+C:\Users\Acer\Documents\BTL_Lan1\obj\Debug\BTL_Lan1.Dangnhap.resources
+C:\Users\Acer\Documents\BTL_Lan1\obj\Debug\BTL_Lan1.Form1.resources
+C:\Users\Acer\Documents\BTL_Lan1\obj\Debug\BTL_Lan1.HoSoNhanVien.resources
+C:\Users\Acer\Documents\BTL_Lan1\obj\Debug\BTL_Lan1.NhanVienDangTrongQTDT.resources
+C:\Users\Acer\Documents\BTL_Lan1\obj\Debug\BTL_Lan1.Properties.Resources.resources
+C:\Users\Acer\Documents\BTL_Lan1\obj\Debug\BTL_Lan1.QTCT.resources
+C:\Users\Acer\Documents\BTL_Lan1\obj\Debug\BTL_Lan1.QTDT.resources
+C:\Users\Acer\Documents\BTL_Lan1\obj\Debug\BTL_Lan1.Report.FormReportNVtrongQTDT.resources
+C:\Users\Acer\Documents\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem2.resources
+C:\Users\Acer\Documents\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem1.resources
+C:\Users\Acer\Documents\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem3.resources
+C:\Users\Acer\Documents\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.CopyComplete
+C:\Users\Acer\Documents\BTL_Lan1\obj\Debug\BTL_Lan1.exe
+C:\Users\Acer\Documents\BTL_Lan1\obj\Debug\BTL_Lan1.pdb
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\BTL_Lan1.exe.config
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\BTL_Lan1.exe
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\BTL_Lan1.pdb
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\EnvDTE.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\stdole.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.csproj.AssemblyReference.cache
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.BaoCaoNgoaiNguVaChuyenMon.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.BaoCaoQTCT.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.BaoCaoQTDT.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.Dangnhap.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.Form1.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.HoSoNhanVien.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.NhanVienDangTrongQTDT.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.Properties.Resources.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.QTCT.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.QTDT.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.Report.FormReportNVtrongQTDT.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.TimKiem2.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.TimKiem1.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.TimKiem3.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.csproj.GenerateResource.cache
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.csproj.CoreCompileInputs.cache
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.csproj.CopyComplete
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.exe
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.pdb
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.Report.FormRP_QTDT.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1 (1)\obj\Debug\BTL_Lan1.Report.FormRP_QTCT.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\BTL_Lan1.exe.config
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\BTL_Lan1.exe
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\BTL_Lan1.pdb
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\EnvDTE.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\stdole.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.AssemblyReference.cache
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoNgoaiNguVaChuyenMon.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoQTCT.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoQTDT.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\obj\Debug\BTL_Lan1.Dangnhap.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\obj\Debug\BTL_Lan1.Form1.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\obj\Debug\BTL_Lan1.HoSoNhanVien.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\obj\Debug\BTL_Lan1.NhanVienDangTrongQTDT.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\obj\Debug\BTL_Lan1.Properties.Resources.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\obj\Debug\BTL_Lan1.QTCT.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\obj\Debug\BTL_Lan1.QTDT.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\obj\Debug\BTL_Lan1.Report.FormReportNVtrongQTDT.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\obj\Debug\BTL_Lan1.Report.FormRP_QTCT.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\obj\Debug\BTL_Lan1.Report.FormRP_QTDT.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem2.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem1.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem3.resources
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.GenerateResource.cache
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.CoreCompileInputs.cache
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.CopyComplete
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\obj\Debug\BTL_Lan1.exe
+D:\CNTT\Nam3\Ki_1\LTTQ\BTL_Lan1\obj\Debug\BTL_Lan1.pdb
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\EnvDTE.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\stdole.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\obj\Debug\BTL_Lan1.Dangnhap.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\obj\Debug\BTL_Lan1.Report.FormReportNVtrongQTDT.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\obj\Debug\BTL_Lan1.Report.FormRP_QTCT.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\obj\Debug\BTL_Lan1.Report.FormRP_QTDT.resources
+D:\Kì 1_Năm 3\Lập trình trực quan_LT\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.CopyComplete
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.AssemblyReference.cache
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoNgoaiNguVaChuyenMon.resources
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoQTCT.resources
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoQTDT.resources
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.Form1.resources
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.FormDangKy.resources
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.FormDangNhap.resources
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.FormQuenMK.resources
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.HoSoNhanVien.resources
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.NhanVienDangTrongQTDT.resources
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.Properties.Resources.resources
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.QTCT.resources
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.QTDT.resources
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.Report.FormReportNVtrongQTDT.resources
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.Report.FormRP_QTCT.resources
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.Report.FormRP_QTDT.resources
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem2.resources
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem1.resources
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem3.resources
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.GenerateResource.cache
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.CoreCompileInputs.cache
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.exe
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.pdb
+D:\testBTL\BTL_Lan1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\testBTL\BTL_Lan1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\testBTL\BTL_Lan1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\testBTL\BTL_Lan1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\testBTL\BTL_Lan1\bin\Debug\BTL_Lan1.exe.config
+D:\testBTL\BTL_Lan1\bin\Debug\BTL_Lan1.exe
+D:\testBTL\BTL_Lan1\bin\Debug\BTL_Lan1.pdb
+D:\testBTL\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\testBTL\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\testBTL\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\testBTL\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\testBTL\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\testBTL\BTL_Lan1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\testBTL\BTL_Lan1\bin\Debug\EnvDTE.dll
+D:\testBTL\BTL_Lan1\bin\Debug\stdole.dll
+D:\testBTL\BTL_Lan1\bin\Debug\EnvDTE.xml
+D:\testBTL\BTL_Lan1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testBTL\BTL_Lan1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testBTL\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.CopyComplete
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\BTL_Lan1.exe.config
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\BTL_Lan1.exe
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\BTL_Lan1.pdb
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\EnvDTE.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\stdole.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\EnvDTE.xml
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testBTL\Test2\BTL_Lan1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.AssemblyReference.cache
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoNgoaiNguVaChuyenMon.resources
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoQTCT.resources
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.BaoCaoQTDT.resources
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.Form1.resources
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.FormDangKy.resources
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.FormDangNhap.resources
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.FormQuenMK.resources
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.HoSoNhanVien.resources
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.NhanVienDangTrongQTDT.resources
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.Properties.Resources.resources
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.QTCT.resources
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.QTDT.resources
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.Report.FormReportNVtrongQTDT.resources
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.Report.FormRP_QTCT.resources
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.Report.FormRP_QTDT.resources
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem2.resources
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem1.resources
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.TimKiem3.resources
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.GenerateResource.cache
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.CoreCompileInputs.cache
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.csproj.CopyComplete
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.exe
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.pdb
+D:\testBTL\Test2\BTL_Lan1\obj\Debug\BTL_Lan1.Report.FormReportNVcungNNvaCM.resources

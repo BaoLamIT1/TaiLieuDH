@@ -1,0 +1,24 @@
+F:\N03_demoCSDLMonHoc\bin\Debug\TestQLD.mdf
+F:\N03_demoCSDLMonHoc\bin\Debug\TestQLD_log.ldf
+F:\N03_demoCSDLMonHoc\bin\Debug\N03_demoCSDLMonHoc.exe.config
+F:\N03_demoCSDLMonHoc\bin\Debug\N03_demoCSDLMonHoc.exe
+F:\N03_demoCSDLMonHoc\bin\Debug\N03_demoCSDLMonHoc.pdb
+F:\N03_demoCSDLMonHoc\obj\Debug\N03_demoCSDLMonHoc.csproj.AssemblyReference.cache
+F:\N03_demoCSDLMonHoc\obj\Debug\N03_demoCSDLMonHoc.Form1.resources
+F:\N03_demoCSDLMonHoc\obj\Debug\N03_demoCSDLMonHoc.Properties.Resources.resources
+F:\N03_demoCSDLMonHoc\obj\Debug\N03_demoCSDLMonHoc.csproj.GenerateResource.cache
+F:\N03_demoCSDLMonHoc\obj\Debug\N03_demoCSDLMonHoc.csproj.CoreCompileInputs.cache
+F:\N03_demoCSDLMonHoc\obj\Debug\N03_demoCSDLMonHoc.exe
+F:\N03_demoCSDLMonHoc\obj\Debug\N03_demoCSDLMonHoc.pdb
+D:\Lập trình trực quan\N03_demoCSDLMonHoc\bin\Debug\TestQLD.mdf
+D:\Lập trình trực quan\N03_demoCSDLMonHoc\bin\Debug\TestQLD_log.ldf
+D:\Lập trình trực quan\N03_demoCSDLMonHoc\bin\Debug\N03_demoCSDLMonHoc.exe.config
+D:\Lập trình trực quan\N03_demoCSDLMonHoc\bin\Debug\N03_demoCSDLMonHoc.exe
+D:\Lập trình trực quan\N03_demoCSDLMonHoc\bin\Debug\N03_demoCSDLMonHoc.pdb
+D:\Lập trình trực quan\N03_demoCSDLMonHoc\obj\Debug\N03_demoCSDLMonHoc.csproj.AssemblyReference.cache
+D:\Lập trình trực quan\N03_demoCSDLMonHoc\obj\Debug\N03_demoCSDLMonHoc.Form1.resources
+D:\Lập trình trực quan\N03_demoCSDLMonHoc\obj\Debug\N03_demoCSDLMonHoc.Properties.Resources.resources
+D:\Lập trình trực quan\N03_demoCSDLMonHoc\obj\Debug\N03_demoCSDLMonHoc.csproj.GenerateResource.cache
+D:\Lập trình trực quan\N03_demoCSDLMonHoc\obj\Debug\N03_demoCSDLMonHoc.csproj.CoreCompileInputs.cache
+D:\Lập trình trực quan\N03_demoCSDLMonHoc\obj\Debug\N03_demoCSDLMonHoc.exe
+D:\Lập trình trực quan\N03_demoCSDLMonHoc\obj\Debug\N03_demoCSDLMonHoc.pdb

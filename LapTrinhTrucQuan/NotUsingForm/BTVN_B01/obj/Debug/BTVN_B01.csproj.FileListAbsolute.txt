@@ -1,0 +1,7 @@
+D:\Lập trình trực quan\BTVN_B01\obj\Debug\BTVN_B01.csproj.AssemblyReference.cache
+D:\Lập trình trực quan\BTVN_B01\obj\Debug\BTVN_B01.csproj.CoreCompileInputs.cache
+D:\Lập trình trực quan\BTVN_B01\bin\Debug\BTVN_B01.exe.config
+D:\Lập trình trực quan\BTVN_B01\bin\Debug\BTVN_B01.exe
+D:\Lập trình trực quan\BTVN_B01\bin\Debug\BTVN_B01.pdb
+D:\Lập trình trực quan\BTVN_B01\obj\Debug\BTVN_B01.exe
+D:\Lập trình trực quan\BTVN_B01\obj\Debug\BTVN_B01.pdb

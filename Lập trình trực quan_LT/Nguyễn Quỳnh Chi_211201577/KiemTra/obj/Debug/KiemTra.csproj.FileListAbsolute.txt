@@ -1,0 +1,13 @@
+D:\LapTrinhTrucQuan\KiemTra\bin\Debug\TacPham.mdf
+D:\LapTrinhTrucQuan\KiemTra\bin\Debug\TacPham_log.ldf
+D:\LapTrinhTrucQuan\KiemTra\bin\Debug\KiemTra.exe.config
+D:\LapTrinhTrucQuan\KiemTra\bin\Debug\KiemTra.exe
+D:\LapTrinhTrucQuan\KiemTra\bin\Debug\KiemTra.pdb
+D:\LapTrinhTrucQuan\KiemTra\obj\Debug\KiemTra.csproj.AssemblyReference.cache
+D:\LapTrinhTrucQuan\KiemTra\obj\Debug\KiemTra.Form1.resources
+D:\LapTrinhTrucQuan\KiemTra\obj\Debug\KiemTra.Properties.Resources.resources
+D:\LapTrinhTrucQuan\KiemTra\obj\Debug\KiemTra.csproj.GenerateResource.cache
+D:\LapTrinhTrucQuan\KiemTra\obj\Debug\KiemTra.csproj.CoreCompileInputs.cache
+D:\LapTrinhTrucQuan\KiemTra\obj\Debug\KiemTra.exe
+D:\LapTrinhTrucQuan\KiemTra\obj\Debug\KiemTra.pdb
+D:\LapTrinhTrucQuan\KiemTra\obj\Debug\KiemTra.csproj.ResolveComReference.cache
