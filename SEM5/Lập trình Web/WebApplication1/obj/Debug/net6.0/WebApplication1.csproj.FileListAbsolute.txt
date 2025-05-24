@@ -1,0 +1,60 @@
+D:\Lập trình Web\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+D:\Lập trình Web\WebApplication1\bin\Debug\net6.0\appsettings.json
+D:\Lập trình Web\WebApplication1\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
+D:\Lập trình Web\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+D:\Lập trình Web\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+D:\Lập trình Web\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+D:\Lập trình Web\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+D:\Lập trình Web\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+D:\Lập trình Web\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình Web\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Lập trình Web\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+D:\Lập trình Web\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Lập trình Web\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\Lập trình Web\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cache
+D:\Lập trình Web\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cs
+D:\Lập trình Web\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Lập trình Web\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\Lập trình Web\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\Lập trình Web\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\Lập trình Web\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Lập trình Web\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Lập trình Web\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Lập trình Web\WebApplication1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Lập trình Web\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+D:\Lập trình Web\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+D:\Lập trình Web\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+D:\Lập trình Web\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+D:\Lập trình Web\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+D:\Lập trình Web\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+D:\Lập trình Web\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\bin\Debug\net6.0\appsettings.json
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cache
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cs
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+D:\Kì 1_Năm 3\Lập trình Web\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
